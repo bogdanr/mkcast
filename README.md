@@ -1,10 +1,10 @@
 # mkcast
 
-A tool for creating GIF screencasts of a terminal, with key presses overlaid.
+A tool for creating GIF screencasts of gnome-terminal, with key presses overlaid.
 
 ![](demo.gif)
 
-Dependencies: `wmctrl`, `byzanz-record` (slightly patched `screenkey` already bundled). Only tested on GNOME on Ubuntu so far.
+Dependencies: `wmctrl`, `byzanz-record` (slightly patched `screenkey` already bundled) and `gnome-terminal`. Only tested on GNOME on Ubuntu so far.
 
 ## Quickstart
 
